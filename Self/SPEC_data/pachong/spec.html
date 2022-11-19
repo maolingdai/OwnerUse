@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+ <META NAME="generator" CONTENT="osgresults 3.2 aca/jg/cds 07/17/2009">
+ <META NAME="author" CONTENT="Alexander Carlton">
+ <META NAME="keywords" CONTENT="SPEC, benchmark, performance">
+ <META NAME="description" CONTENT="This is the search interface to the more than twenty thousand (20,000) benchmark results published by SPEC.">
+ <LINK REL="home" HREF="/">
+ <LINK REL="toc" HREF="/contents.html">
+ <LINK REL="index" HREF="/permuted.html">
+ <LINK REL="glossary" HREF="/spec/glossary/">
+ <LINK REL="copyright" HREF="/spec/copyright.html">
+ <LINK REL="help" HREF="/cgi-bin/osgresults?op=help">
+ <TITLE>All OSG Benchmark Results -- Query</TITLE>
+ <style type="text/css" media="screen">
+ @import url("/includes/sitestyle.css");  td { font-size: 10pt};  </style> </HEAD>
+<BODY BGCOLOR="#ffffff" TEXT="#333333" LINK="#2222bb" VLINK="#990000">
+<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=100%>
+<TR>
+<TD VALIGN=top><A HREF=/>
+        <IMG SRC=/images/spec-sm.gif BORDER=0 WIDTH=57 HEIGHT=78></A>
+</TD>
+<TD>
+<FORM ACTION=/cgi-bin/redir.cgi METHOD=POST>
+<FONT SIZE=+2><B>SPEC/OSG Result Search Engine</B></FONT><BR>
+   Available Configurations: &nbsp;
+   <SELECT NAME="URL">
+	<OPTION VALUE="all"      >All SPEC/OSG Results
+	<OPTION VALUE="cpu2017"  >All SPEC CPU2017
+        <OPTION VALUE="cint2017" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECspeed2017_int
+        <OPTION VALUE="rint2017" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECrate2017_int
+        <OPTION VALUE="cfp2017"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECspeed2017_fp
+        <OPTION VALUE="rfp2017"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECrate2017_fp
+        <OPTION VALUE="cpu2006"  >All SPEC CPU2006
+        <OPTION VALUE="cint2006" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECint2006
+        <OPTION VALUE="rint2006" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECint2006 Rates
+        <OPTION VALUE="cfp2006"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECfp2006
+        <OPTION VALUE="rfp2006"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECfp2006 Rates
+        <OPTION VALUE="cpu2000"  >All SPEC CPU2000
+        <OPTION VALUE="cint2000" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECint2000
+        <OPTION VALUE="rint2000" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECint2000 Rates
+        <OPTION VALUE="cfp2000"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECfp2000
+        <OPTION VALUE="rfp2000"  >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECfp2000 Rates
+        <OPTION VALUE="cpu95"    >All SPEC CPU95
+        <OPTION VALUE="cint95"   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECint95
+        <OPTION VALUE="rint95"   >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECint95 Rates
+        <OPTION VALUE="cfp95"    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECfp95
+        <OPTION VALUE="rfp95"    >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECfp95 Rates
+        <OPTION VALUE="jas2004"  >SPEC jAppServer2004
+        <OPTION VALUE="jas2002"  >SPEC jAppServer2002
+        <OPTION VALUE="jas2001"  >SPEC jAppServer2001
+        <OPTION VALUE="jbb2015"  >All SPEC JBB2015
+	<OPTION VALUE="jbb2015composite" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECjbb2015-Composite
+        <OPTION VALUE="jbb2015distributed" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECjbb2015-Distributed
+        <OPTION VALUE="jbb2015multijvm" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECjbb2015-MultiJVM
+        <OPTION VALUE="jbb2005"  >SPEC JBB2005
+        <OPTION VALUE="jbb2000"  >SPEC JBB2000
+ 	<OPTION VALUE="jent2010" >SPEC jEnterprise2010
+        <OPTION VALUE="jms2007"  >SPEC JMS2007
+        <OPTION VALUE="jvm2008"  >SPEC JVM2008
+        <OPTION VALUE="jvm98"    >SPEC JVM98
+        <OPTION VALUE="mail2009" >SPEC MAIL2009
+        <OPTION VALUE="mail2008" >SPEC MAIL2008
+        <OPTION VALUE="mail2001" >SPEC MAIL2001
+	<OPTION VALUE="power_ssj2008">SPECpower_ssj2008
+        <OPTION VALUE="sfs2008"  >SPEC SFS2008       
+        <OPTION VALUE="sfs2008nfs" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECsfs2008_nfs
+        <OPTION VALUE="sfs2008cifs">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPECsfs2008_cifs
+        <OPTION VALUE="sfs97r1"  >SPEC SFS97_R1
+        <OPTION VALUE="sfs97"    >SPEC SFS97
+        <OPTION VALUE="sfs93"    >SPEC SFS93
+	<OPTION VALUE="virt_sc2013">SPECvirt_sc2013
+	<OPTION VALUE="virt_sc2010">SPECvirt_sc2010
+        <OPTION VALUE="web2009"  >SPEC WEB2009
+        <OPTION VALUE="web2005"  >SPEC WEB2005
+        <OPTION VALUE="web99"    >SPEC WEB99
+        <OPTION VALUE="web99ssl" >SPEC WEB99_SSL
+        <OPTION VALUE="web96"    >SPEC WEB96
+   </SELECT>&nbsp;
+   <INPUT TYPE=HIDDEN NAME=BASE_URL VALUE="/cgi-bin/osgresults?conf=">
+   <INPUT TYPE=SUBMIT VALUE="Go!">
+   <BR>Search Form Request:&nbsp;&nbsp;&nbsp;&nbsp;
+   <INPUT TYPE=radio NAME=URL_XOPTIONS VALUE="">Simple&nbsp;
+   <INPUT TYPE=radio NAME=URL_XOPTIONS VALUE="&op=form">Advanced
+</FORM>
+</TD>
+</TR>
+</TABLE>
+
+<HR>
+<H1>All OSG Benchmark Results -- Query</H1>
+<P>This configuration provides access to some of the high level information across all available results.  Use a benchmark specific configuration to get access to more details.</P>
+<P><HR><P>
+<FORM METHOD="POST" ACTION="/cgi-bin/osgresults">
+<INPUT TYPE="hidden" NAME="conf" VALUE="default">
+<INPUT TYPE="hidden" NAME="op" VALUE="fetch">
+<H2>Simple Request</H2>
+<P>Fetch just the summary information for all results.</P>
+<UL><LI>Optional: Return only those results where
+<UL>
+<LI><SELECT NAME="field"> <OPTION VALUE="COMPANY">Company
+ <OPTION VALUE="SYSTEM">System
+ <OPTION VALUE="CPU">Processor
+ <OPTION VALUE="MEMORY">Memory
+ <OPTION VALUE="OS">Op. Sys.
+ <OPTION VALUE="TESTER">Tested By
+</SELECT>
+Matches <INPUT TYPE="TEXT" NAME="pattern" SIZE=40>
+<INPUT TYPE="CHECKBOX" NAME="icase" VALUE="0">Case-Sensitive
+</UL>
+</UL>
+<INPUT TYPE="SUBMIT" VALUE="Execute Simple Fetch">
+</FORM>
+<P><HR><P>
+<H2>Advanced Requests</H2>
+<DL>
+<DT>Configurable Search
+<DD>
+<P>We also support a much more configurable interface
+which allows you to select from a much greater variety of fields
+and have much more control over how the results are displayed.</P>
+<UL>
+<LI><A HREF="/cgi-bin/osgresults?conf=default;op=form"><B>Configurable Query Form</B></A>
+ (<A HREF="/cgi-bin/osgresults?conf=default;op=form;format=pre">without HTML tables</A>)
+</UL>
+<P>
+<DT>Full Database Dumps
+<DD>
+<P>Alternatively,
+you can have everything returned all together.
+This returns all fields of all records in all datasets
+for the current configuration.
+This can be a lot of data,
+almost certainly more than one screenful,
+and maybe dozens of fields across by hundreds of rows down.</P>
+<UL>
+<LI><A HREF="/cgi-bin/osgresults?conf=default;op=dump;format=pre">Dump All Records</A>
+<LI><A HREF="/cgi-bin/osgresults?conf=default;op=dump;format=csvdump">Dump All Records As CSV</A>
+</UL>
+</DL>
+<P>
+<HR><H2>Need Help?</H2>
+<P>A <A HREF="/cgi-bin/osgresults?conf=default;op=help">help screen</A>
+is also available.
+This help information describes the operation
+of this results engine,
+and defines all the terminology used.</P>
+<br>
+<br>
+
+<hr>
+
+<P>Goto:
+[<A HREF="/"><TT><B>Home</B></TT></A>]
+[<A HREF="/spec/"><TT><B>SPEC</B></TT></A>]
+[<A HREF="/osg/"><TT><B>OSG</B></TT></A>]
+[<A HREF="/hpg/"><TT><B>HPG</B></TT></A>]
+[<A HREF="/gwpg/"><TT><B>GPC</B></TT></A>]
+[<A HREF="/benchmarks.html"><TT><B>Benchmarks</B></TT></A>]
+[<A HREF="/results.html"><TT><B>Results</B></TT></A>]
+[<A HREF="/osg/submitting_results.html"><TT><B>Submitting OSG Results</B></TT></A>]
+[<A HREF="/hpg/submitting_results.html"><TT><B>Submitting HPG Results</B></TT></A>]
+</P>
+<p><address>webmaster&#64;spec&#46;&#111;rg</address>
+Mon Nov  7 10:49:37 2022
+<br>
+</p>
+</BODY>
+</HTML>

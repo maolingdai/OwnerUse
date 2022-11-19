@@ -1,0 +1,397 @@
+TestSponsor,SystemName,JVMName,JVMVersion,max-jOPS,critical-jOPS
+ASUSTeK Computer Inc.,RS700-E10-RS12U,Oracle Java SE 16.0.1,"Java HotSpot 64-bit Server VM, version 16.0.1",282719,148229
+ASUSTeK Computer Inc.,RS700A-E11-RS12U,Oracle Java SE 16.0.1,"Java HotSpot 64-bit Server VM, version 16.0.1",339338,313824
+ASUSTeK Computer Inc.,RS700A-E11-RS12U,Oracle Java SE 16.0.1,"Java HotSpot 64-bit Server VM, version 16.0.1",420774,165211
+ASUSTeK Computer Inc.,RS700-E10-RS12U,Oracle Java SE 16.0.1,"Java HotSpot 64-bit Server VM, version 16.0.1",269094,213195
+ASUSTeK Computer Inc.,RS720-E10-RS12,Oracle Java SE 17,"Java HotSpot 64-bit Server VM, version 17",286125,152057
+ASUSTeK Computer Inc.,RS700A-E11-RS12U,Oracle Java SE 17.0.1,"Java HotSpot 64-bit Server VM, version 17.0.1",388135,357221
+ASUSTeK Computer Inc.,RS700A-E11-RS12U,Oracle Java SE 17.0.1,"Java HotSpot 64-bit Server VM, version 17.0.1",513161,179204
+Cisco Systems,Cisco UCS C220 M4,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",92463,31654
+Cisco Systems,Cisco UCS C220 M4,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",97551,28318
+Cisco Systems,Cisco UCS C460 M4,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",171642,53348
+Cisco Systems,Cisco UCS C460 M4,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",157832,99646
+Cisco Systems,Cisco UCS C220 M4,Oracle Java SE 8u74,"Java HotSpot 64-bit Server VM, version 1.8.0_74",94667,71951
+Cisco Systems,Cisco UCS C220 M4,Oracle Java SE 8u74,"Java HotSpot 64-bit Server VM, version 1.8.0_74",117931,39417
+Cisco Systems,Cisco UCS C460 M4,Oracle Java SE 8u91,"Java HotSpot 64-bit Server VM, version 1.8.0_91",189334,128990
+Cisco Systems,Cisco UCS C460 M4,Oracle Java SE 8u91,"Java HotSpot 64-bit Server VM, version 1.8.0_91",218425,75259
+Cisco Systems,Cisco UCS C240 M5,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",179534,58094
+Cisco Systems,Cisco UCS C240 M5,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",141360,118551
+Cisco Systems,Cisco UCS C480 M5,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",269094,225482
+Cisco Systems,Cisco UCS C480 M5,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",343284,114296
+Cisco Systems,Cisco UCS C480 M5,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",351175,112800
+Cisco Systems,Cisco UCS C480 M5,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",272500,229029
+Cisco Systems,Cisco UCS C125 M5 Rack Server Node,Oracle Java SE 10.0.2,"Java HotSpot 64-bit Server VM, version 10.0.2",77234,44545
+Cisco Systems,Cisco UCS C480 M5,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",363013,137248
+Cisco Systems,Cisco UCS C480 M5,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",327501,108859
+Cisco Systems,Cisco UCS C240 M5,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",131141,91701
+Cisco Systems,Cisco UCS C240 M5,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",171642,56027
+Cisco Systems,Cisco UCS C480 M5,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",282719,175585
+Cisco Systems,Cisco UCS C480 M5,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",292937,250994
+Cisco Systems,Cisco UCS C240 M5,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",149875,126579
+Cisco Systems,Cisco UCS C240 M5,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",181507,68157
+Cisco Systems,Cisco UCS C245 M6,Oracle Java SE 16.0.1,"Java HotSpot 64-Bit Server VM,version 16.0.1",327501,307324
+Cisco Systems,Cisco UCS C245 M6,Oracle Java SE 16.0.1,"Java HotSpot 64-Bit Server VM,version 16.0.1",411627,194793
+Cisco Systems,Cisco UCS C245 M6,Oracle Java SE 16.0.1,"Java HotSpot 64-Bit Server VM,version 16.0.1",211379,102326
+Cisco Systems,Cisco UCS C245 M6,Oracle Java SE 16.0.1,"Java HotSpot 64-Bit Server VM,version 16.0.1",185453,155378
+Cisco Systems,Cisco UCS C225 M6,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM,version 17.0.2",186968,175561
+Cisco Systems,Cisco UCS C245 M6,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM,version 17.0.2",482694,219940
+Cisco Systems,Cisco UCS C225 M6,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM,version 17.0.2",244090,111575
+Cisco Systems,Cisco UCS C245 M6,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM,version 17.0.2",364468,339984
+Dell Inc.,Dell Inc. PowerEdge,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",94903,29033
+Dell Inc.,Dell Inc. PowerEdge,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",163751,40700
+Dell Inc.,Dell Inc. PowerEdge,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",155746,96327
+Dell Inc.,Dell Inc. PowerEdge,Oracle Jave SE 8u74,"Java HotSpot 64-bit Server VM, version 1.8.0_74",116560,32273
+Dell Inc.,Dell Inc. PowerEdge,Oracle Jave SE 8u74,"Java HotSpot 64-bit Server VM, version 1.8.0_74",205901,55050
+Dell Inc.,Dell Inc. PowerEdge,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",155414,69059
+Dell Inc.,Dell Inc. PowerEdge,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",167696,43257
+Dell Inc.,Dell Inc. PowerEdge,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",300156,163812
+Dell Inc.,Dell Inc. PowerEdge,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",326035,97773
+Dell Inc.,Dell Inc. PowerEdge,Oracle Jave SE 8u152,"Java HotSpot 64-bit Server VM, version 1.8.0_152",144736,42612
+Dell Inc.,Dell Inc. PowerEdge,Oracle Jave SE 8u152,"Java HotSpot 64-bit Server VM, version 1.8.0_152",125650,64407
+Dell Inc.,Dell Inc. PowerEdge,Oracle Java SE 10.0.1,"Java HotSpot 64-bit Server VM, version 10.0.1",331446,122481
+Dell Inc.,Dell Inc. PowerEdge,Oracle Java SE 10.0.1,"Java HotSpot 64-bit Server VM, version 10.0.1",299750,208420
+Dell Inc.,Dell Inc. PowerEdge,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",26012,6009
+Dell Inc.,Dell Inc. PowerEdge R740xd,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",175588,62372
+Dell Inc.,Dell Inc. PowerEdge R940,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",315517,113203
+Dell Inc.,Dell Inc. PowerEdge R7515,Oracle Java SE 12.0.1,"Java HotSpot 64-bit Server VM, version 12.0.1",164003,68861
+Dell Inc.,Dell Inc. PowerEdge R6525,Oracle Java SE 13.0.1,"Java HotSpot 64-bit Server VM, version 13.0.1",339449,111390
+Dell Inc.,Dell Inc. PowerEdge R7525,Oracle GraalVM,"Java HotSpot 64-bit Server VM, GraalVM EE 20.1.0 (build 11.0.7+8-LTS-jvmci-20.1-b02)",370464,113999
+Dell Inc.,Dell Inc. PowerEdge R7525,Oracle Java SE 15.0.2,"Java Hotspot(TM) 64-Bit Server VM (build 15.0.2+7-27, mixed mode, sharing)",402479,152300
+Dell Inc.,Dell Inc. PowerEdge R7525,Oracle Java SE 15.0.2,"Java Hotspot(TM) 64-Bit Server VM (build 15.0.2+7-27, mixed mode, sharing)",351175,296508
+Dell Inc.,Dell Inc. PowerEdge R750,Oracle Java SE 15.0.2,"Java Hotspot(TM) 64-Bit Server VM (build 15.0.2+7-27, mixed mode, sharing)",258368,136309
+Dell Inc.,Dell Inc. PowerEdge R7525,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",377408,334509
+Dell Inc.,Dell Inc. PowerEdge R7525,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",482694,220821
+Dell Inc.,Dell Inc. PowerEdge MX750C,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",264047,135164
+Dell Inc.,Dell Inc. PowerEdge R7515,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",246712,106529
+Dell Inc.,Dell Inc. PowerEdge MX750C,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",247011,167526
+Dell Inc.,Dell Inc. PowerEdge R750,Oracle Java SE 17.0.3,"Java HotSpot 64-bit Server VM, version 17.0.3",213001,163602
+Dell Inc.,Dell Inc. PowerEdge R7625,Oracle Java SE 18.0.2.1,"Java HotSpot 64-bit Server VM, version 18.0.2.1",403345,187269
+Dell Inc.,Dell Inc. PowerEdge R7625,Oracle Java SE 18.0.2.1,"Java HotSpot 64-bit Server VM, version 18.0.2.1",630305,599311
+Dell Inc.,Dell Inc. PowerEdge R7625,Oracle Java SE 18.0.2.1,"Java HotSpot 64-bit Server VM, version 18.0.2.1",324512,312136
+Dell Inc.,Dell Inc. PowerEdge R7625,Oracle Java SE 18.0.2.1,"Java HotSpot 64-bit Server VM, version 18.0.2.1",794337,346731
+Fujitsu,SPARC M10-4S,Oracle Java SE 8u66,"Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_66",450467,278958
+Fujitsu,SPARC M10-4S,Oracle Java SE 8u66,"Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_66",397906,224535
+Fujitsu,Fujitsu SPARC M12-2S,Oracle Java SE 8u121,"Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_121",54434,34771
+Fujitsu,Fujitsu Server PRIMERGY RX1330 M4,Oracle Java SE 10.0.2,"Java HotSpot 64-bit Server VM, version 10.0.2",26012,9513
+Fujitsu,Fujitsu Server PRIMERGY RX1330 M4,Oracle Java SE 10.0.2,"Java HotSpot 64-bit Server VM, version 10.0.2",25155,9535
+Fujitsu,Fujitsu Server PRIMERGY RX2540 M5,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",155295,81233
+Fujitsu,Fujitsu Server PRIMEQUEST 3800B2,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",686568,267830
+"GIGA-BYTE TECHNOLOGY CO., LTD.",R282-Z90,Oracle Java SE 12.0.1,"Java HotSpot 64-bit Server VM, version 12.0.1",355121,151270
+"GIGA-BYTE TECHNOLOGY CO., LTD.",R282-Z90,Oracle Java SE 12.0.1,"Java HotSpot 64-bit Server VM, version 12.0.1",319609,233669
+"GIGA-BYTE TECHNOLOGY CO., LTD.",R282-Z90,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",359735,329073
+"GIGA-BYTE TECHNOLOGY CO., LTD.",R282-Z90,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",460753,169054
+"GIGA-BYTE TECHNOLOGY CO., LTD.",R282-Z90,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",488179,227448
+H3C,UniServer R4900 G3,Oracle Java SE 8u131,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",141360,120287
+H3C,H3C UniServer R6900 G3,Oracle Java SE 8u144,"Java HotSpot 64-Bit Server VM, version 1.8.0_144",269094,228957
+H3C,H3C UniServer R4900 G3,Oracle Java SE 8u144,"Java HotSpot 64-Bit Server VM, version 1.8.0_144",175588,64011
+H3C,H3C UniServer R6900 G3,Oracle Java SE 8u144,"Java HotSpot 64-Bit Server VM, version 1.8.0_144",272500,230175
+H3C,H3C UniServer R6900 G3,Oracle Java SE 8u144,"Java HotSpot 64-Bit Server VM, version 1.8.0_144",335392,120112
+H3C,H3C UniServer R6900 G3,Oracle Java SE 9.0.4,"Java HotSpot 64-Bit Server VM, version 9.0.4",347230,114638
+Hewlett Packard Enterprise,ProLiant DL120 Gen9,Oracle Java SE 8u74,"Java HotSpot 64-bit Server VM, version 1.8.0_74",50310,17840
+Hewlett Packard Enterprise,ProLiant DL120 Gen9,Oracle Java SE 8u74,"Java HotSpot 64-bit Server VM, version 1.8.0_74",57217,14196
+Hewlett Packard Enterprise,ProLiant DL380 Gen9,Oracle Java SE 8u72,"Java HotSpot 64-bit Server VM, version 1.8.0_72",105690,52952
+Hewlett Packard Enterprise,ProLiant DL380 Gen9,Oracle Java SE 8u72,"Java HotSpot 64-bit Server VM, version 1.8.0_72",119302,28854
+Hewlett Packard Enterprise,ProLiant DL360 Gen9,Oracle Java SE 8u72,"Java HotSpot 64-bit Server VM, version 1.8.0_72",119302,29717
+Hewlett Packard Enterprise,ProLiant ML350 Gen9,Oracle Java SE 8u72,"Java HotSpot 64-bit Server VM, version 1.8.0_72",119302,28835
+Hewlett Packard Enterprise,ProLiant DL360 Gen9,Oracle Java SE 8u74,"Java HotSpot 64-bit Server VM, version 1.8.0_74",120674,29013
+Hewlett Packard Enterprise,ProLiant DL580 Gen9,Oracle Java SE 8u92,"Java HotSpot 64-bit Server VM, version 1.8.0_92",186968,114609
+Hewlett Packard Enterprise,ProLiant DL580 Gen9,Oracle Java SE 8u92,"Java HotSpot 64-bit Server VM, version 1.8.0_92",219329,37996
+Hewlett Packard Enterprise,ProLiant DL560 Gen9,Oracle Java SE 8u92,"Java HotSpot 64-bit Server VM, version 1.8.0_92",227634,44264
+Hewlett Packard Enterprise,ProLiant BL660c Gen9,Oracle Java SE 8u92,"Java HotSpot 64-bit Server VM, version 1.8.0_92",177561,135406
+Hewlett Packard Enterprise,Integrity Superdome X,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",776269,84557
+Hewlett Packard Enterprise,Integrity Superdome X,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",700536,439937
+Hewlett Packard Enterprise,Integrity Superdome X,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",359735,237725
+Hewlett Packard Enterprise,Synergy 480 Gen9,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",93484,72144
+Hewlett Packard Enterprise,Synergy 660 Gen9,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",177501,138380
+Hewlett Packard Enterprise,ProLiant DL360 Gen9,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",122045,29701
+Hewlett Packard Enterprise,ProLiant DL380 Gen9,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",95851,74902
+Hewlett Packard Enterprise,ProLiant ML350 Gen9,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",94667,73812
+Hewlett Packard Enterprise,ProLiant DL380 Gen9,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",122045,30318
+Hewlett Packard Enterprise,ProLiant DL360 Gen9,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",97034,74929
+Hewlett Packard Enterprise,ProLiant XL260a Gen9,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",50292,15165
+Hewlett Packard Enterprise,ProLiant XL260a Gen9,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",58965,10961
+Hewlett Packard Enterprise,ProLiant DL580 Gen9,Oracle Java SE 8u112,"Java HotSpot 64-bit Server VM, version 1.8.0_112",224892,40845
+Hewlett Packard Enterprise,Synergy 680 Gen9,Oracle Java SE 8u121,"Java HotSpot 64-bit Server VM, version 1.8.0_121",194068,138466
+Hewlett Packard Enterprise,Synergy 680 Gen9,Oracle Java SE 8u121,"Java HotSpot 64-bit Server VM, version 1.8.0_121",224892,51120
+Hewlett Packard Enterprise,ProLiant DL380 Gen10,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",137954,117090
+Hewlett Packard Enterprise,Synergy 660 Gen10,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",275906,227943
+Hewlett Packard Enterprise,ProLiant DL380 Gen10,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",74086,62592
+Hewlett Packard Enterprise,ProLiant DL380 Gen10,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",84142,25431
+Hewlett Packard Enterprise,ProLiant DL385 Gen10,Oracle Java SE 8u144,"Java HotSpot 64-bit Server VM, version 1.8.0_144",133603,51616
+Hewlett Packard Enterprise,ProLiant DL385 Gen10,Oracle Java SE 8u144,"Java HotSpot 64-bit Server VM, version 1.8.0_144",145378,34159
+Hewlett Packard Enterprise,ProLiant ML350 Gen10,Oracle Java SE 8u144,"Java HotSpot 64-bit Server VM, version 1.8.0_144",141360,118880
+Hewlett Packard Enterprise,ProLiant DL580 Gen10,Oracle Java SE 8u144,"Java HotSpot 64-bit Server VM, version 1.8.0_144",343284,81793
+Hewlett Packard Enterprise,ProLiant DL380 Gen10,Oracle Java SE 8u152,"Java HotSpot 64-bit Server VM, version 1.8.0_152",173773,40225
+Hewlett Packard Enterprise,ProLiant DL385 Gen10,Oracle Java SE 8u152,"Java HotSpot 64-bit Server VM, version 1.8.0_152",128831,77418
+Hewlett Packard Enterprise,ProLiant DL385 Gen10,Oracle Java SE 8u152,"Java HotSpot 64-bit Server VM, version 1.8.0_152",150324,35687
+Hewlett Packard Enterprise,ProLiant DL325 Gen10,Oracle Java SE 10.0.1,"Java HotSpot 64-bit Server VM, version 10.0.1",76773,20055
+Hewlett Packard Enterprise,ProLiant DL325 Gen10,Oracle Java SE 10.0.1,"Java HotSpot 64-bit Server VM, version 10.0.1",66007,43867
+Hewlett Packard Enterprise,ProLiant DL380 Gen10,Oracle Java SE 10.0.2,"Java HotSpot 64-bit Server VM, version 10.0.2",78879,22448
+Hewlett Packard Enterprise,ProLiant DL380 Gen10,Oracle Java SE 10.0.2,"Java HotSpot 64-bit Server VM, version 10.0.2",159805,29669
+Hewlett Packard Enterprise,ProLiant DL380 Gen10,Oracle Java SE 10.0.2,"Java HotSpot 64-bit Server VM, version 10.0.2",75789,41037
+Hewlett Packard Enterprise,ProLiant DL380 Gen10,Oracle Java SE 10.0.2,"Java HotSpot 64-bit Server VM, version 10.0.2",131141,67613
+Hewlett Packard Enterprise,Synergy 480 Gen10,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",171641,132472
+Hewlett Packard Enterprise,Synergy 660 Gen10,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",326936,257740
+Hewlett Packard Enterprise,ProLiant DL560 Gen10,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",378668,100513
+Hewlett Packard Enterprise,ProLiant DL360 Gen10,Oracle Java SE 8u201,"Java HotSpot 64-bit Server VM (build 25.201-b09, mixed mode)",81734,49374
+Hewlett Packard Enterprise,ProLiant DL360 Gen10,Oracle Java SE 8u201,"Java HotSpot 64-bit Server VM (build 25.201-b09, mixed mode)",84835,23895
+Hewlett Packard Enterprise,ProLiant DL360 Gen10,Oracle Java SE 8u201,"Java HotSpot 64-bit Server VM (build 25.201-b09, mixed mode)",161425,95252
+Hewlett Packard Enterprise,ProLiant DL360 Gen10,Oracle Java SE 8u201,"Java HotSpot 64-bit Server VM (build 25.201-b09, mixed mode)",163751,44783
+Hewlett Packard Enterprise,Synergy 480 Gen10,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",90930,67815
+Hewlett Packard Enterprise,Synergy 480 Gen10,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",93484,25413
+Hewlett Packard Enterprise,ProLiant DL560 Gen10,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",370904,102818
+Hewlett Packard Enterprise,Synergy 480 Gen10,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",194068,53616
+Hewlett Packard Enterprise,ProLiant DL325 Gen10,OpenJDK 12.0.1,"OpenJDK 64-bit Server VM, version 12.0.1",153886,119716
+Hewlett Packard Enterprise,ProLiant DL325 Gen10,OpenJDK 12.0.1,"OpenJDK 64-bit Server VM, version 12.0.1",171631,75275
+Hewlett Packard Enterprise,ProLiant DL385 Gen10,OpenJDK 12.0.1,OpenJDK 64-Bit Server VM version 12.0.1,296054,228607
+Hewlett Packard Enterprise,ProLiant DL385 Gen10,OpenJDK 12.0.1,OpenJDK 64-Bit Server VM version 12.0.1,331821,145262
+Hewlett Packard Enterprise,ProLiant DL325 Gen10 Plus,Oracle Java SE 13,"Java HotSpot 64-bit Server VM, version 13",153724,43834
+Hewlett Packard Enterprise,ProLiant DL385 Gen10 Plus,Oracle Java SE 13,"Java HotSpot 64-bit Server VM, version 13",314206,82661
+Hewlett Packard Enterprise,ProLiant DL385 Gen10 Plus,Oracle Java SE 13,"Java HotSpot 64-bit Server VM, version 13",289475,160100
+Hewlett Packard Enterprise,Superdome Flex 280,OpenJDK 15,"OpenJDK 64-bit Server VM, version 15",388135,206258
+Hewlett Packard Enterprise,Superdome Flex 280,OpenJDK 15,"OpenJDK 64-bit Server VM, version 15",343283,299065
+Hewlett Packard Enterprise,Superdome Flex 280,OpenJDK 15,"OpenJDK 64-bit Server VM, version 15",745690,401277
+Hewlett Packard Enterprise,Superdome Flex 280,OpenJDK 15,"OpenJDK 64-bit Server VM, version 15",622749,529205
+Hewlett Packard Enterprise,Superdome Flex 280,OpenJDK 15.0.2,"OpenJDK 64-bit Server VM, version 15.0.2",411801,210427
+Hewlett Packard Enterprise,Superdome Flex 280,OpenJDK 15.0.2,"OpenJDK 64-bit Server VM, version 15.0.2",359630,310694
+Hewlett Packard Enterprise,Superdome Flex 280,OpenJDK 15.0.2,"OpenJDK 64-bit Server VM, version 15.0.2",795203,411180
+Hewlett Packard Enterprise,Superdome Flex 280,OpenJDK 15.0.2,"OpenJDK 64-bit Server VM, version 15.0.2",662046,549657
+Hewlett Packard Enterprise,ProLiant DL345 Gen10 Plus,Oracle Java SE 15.0.2,"Java HotSpot 64-bit Server VM, version 15.0.2",177561,153918
+Hewlett Packard Enterprise,ProLiant DL345 Gen10 Plus,Oracle Java SE 15.0.2,"Java HotSpot 64-bit Server VM, version 15.0.2",210387,71928
+Hewlett Packard Enterprise,ProLiant DL385 Gen10 Plus v2,Oracle Java SE 15.0.2,"Java HotSpot 64-bit Server VM, version 15.0.2",351175,296592
+Hewlett Packard Enterprise,ProLiant DL385 Gen10 Plus v2,Oracle Java SE 15.0.2,"Java HotSpot 64-bit Server VM, version 15.0.2",407053,155985
+Hewlett Packard Enterprise,ProLiant DL325 Gen10 Plus v2,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",177501,172446
+Hewlett Packard Enterprise,ProLiant DL385 Gen10 Plus v2,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",488179,184120
+Hewlett Packard Enterprise,ProLiant DL385 Gen10 Plus v2,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",364468,340756
+Hewlett Packard Enterprise,ProLiant DL325 Gen10 Plus v2,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",249575,91089
+Hewlett Packard Enterprise,ProLiant DL385 Gen11,Oracle Java SE 18.0.2.1,"Java HotSpot 64-bit Server VM, version 18.0.2.1",811237,345838
+Hewlett Packard Enterprise,ProLiant DL385 Gen11,Oracle Java SE 18.0.2.1,"Java HotSpot 64-bit Server VM, version 18.0.2.1",638822,600228
+Hewlett Packard Enterprise,ProLiant DL325 Gen11,Oracle Java SE 18.0.2.1,"Java HotSpot 64-bit Server VM, version 18.0.2.1",409542,219603
+Hewlett Packard Enterprise,ProLiant DL325 Gen11,Oracle Java SE 18.0.2.1,"Java HotSpot 64-bit Server VM, version 18.0.2.1",332188,314153
+Hewlett-Packard Company,ProLiant DL120 Gen9,Oracle Java SE 8u51,"Java HotSpot 64-bit Server VM, version 1.8.0_51",47334,9876
+Hewlett-Packard Company,ProLiant DL580 Gen9,Oracle Java SE 8u51,"Java HotSpot 64-bit Server VM, version 1.8.0_51",138159,33677
+Hewlett-Packard Company,Integrity Superdome X,Oracle Java SE 8u51,"Java HotSpot 64-bit Server VM, version 1.8.0_51",416200,82508
+Hewlett-Packard Company,Integrity Superdome X,Oracle Java SE 8u51,"Java HotSpot 64-bit Server VM, version 1.8.0_51",341516,78544
+Hewlett-Packard Company,Integrity Superdome X,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",224203,83250
+Huawei,2288H V5,Oracle Java SE,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",159381,109402
+Huawei,CH121 V5,Oracle Java SE,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",161425,109777
+Huawei,FusionServer 1288H V5,Oracle Java SE,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",171642,47217
+Huawei,FusionServer CH121 V5,Oracle Java SE,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",173615,48519
+Huawei,FusionServer 2288H V5,Oracle Java SE,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",173615,49999
+Huawei,FusionServer 2288H V5,Oracle Java SE,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",175588,48977
+Huawei,FusionServer 2288H V5,Oracle Java SE,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",179534,49226
+Huawei Company,Huawei KunLun9016,Oracle Java SE 8u92,"Java HotSpot(TM) 64-Bit Server VM,version 1.8.0_92",532898,91260
+Huawei Company,Huawei KunLun9008,Oracle Java SE 8u92,"Java HotSpot(TM) 64-Bit Server VM,version 1.8.0_92",299880,80094
+Huawei Company,Huawei KunLun9008,Oracle Java SE 8u92,"Java HotSpot 64-Bit Server VM,version 1.8.0_92",299880,80094
+Huawei Company,Huawei KunLun9016,Oracle Java SE 8u92,"Java HotSpot 64-Bit Server VM,version 1.8.0_92",532898,91260
+"Huawei Technologies Co., Ltd",FusionServer RH2288H V3,Oracle Java SE 8u66,"Java HotSpot 64-Bit Server VM, version 1.8.0_66",98673,28824
+"Huawei Technologies Co., Ltd",FusionServer RH2288H V3,Oracle Java SE 8u66,"Java HotSpot 64-Bit Server VM, version 1.8.0_66",92616,31946
+"Huawei Technologies Co., Ltd",FusionServer CH121 V3,Oracle Java SE 8u66,"Java HotSpot 64-Bit Server VM, version 1.8.0_66",98227,28810
+"Huawei Technologies Co., Ltd",FusionServer CH121 V3,Oracle Java SE 8u66,"Java HotSpot 64-Bit Server VM, version 1.8.0_66",92616,31693
+"Huawei Technologies Co., Ltd",FusionServer CH121 V3,Oracle Java SE 8u73,"Java HotSpot 64-Bit Server VM, version 1.8.0_73",110279,68912
+"Huawei Technologies Co., Ltd",FusionServer CH121 V3,Oracle Java SE 8u77,"Java HotSpot 64-Bit Server VM, version 1.8.0_77",120674,35673
+"Huawei Technologies Co., Ltd",Huawei RH5885H V3,Oracle Java SE 8u92,"Java HotSpot 64-Bit Server VM,version 1.8.0_92",190898,120306
+"Huawei Technologies Co., Ltd",Huawei RH5885H V3,Oracle Java SE 8u92,"Java HotSpot 64-Bit Server VM,version 1.8.0_92",217248,61600
+"Huawei Technologies Co., Ltd",Huawei RH8100 V3,Oracle Java SE 8u92,"Java HotSpot 64-Bit Server VM,version 1.8.0_92",368353,213248
+"Huawei Technologies Co., Ltd",Huawei RH8100 V3,Oracle Java SE 8u92,"Java HotSpot 64-Bit Server VM,version 1.8.0_92",411801,119520
+"Huawei Technologies Co., Ltd",FusionServer RH2288H V3,Oracle Java SE 8u92,"Java HotSpot 64-Bit Server VM, version 1.8.0_92",121381,38595
+"Huawei Technologies Co., Ltd",FusionServer CH121 V3,Oracle Java SE 8u92,"Java HotSpot 64-Bit Server VM, version 1.8.0_92",120674,36895
+"Huawei Technologies Co., Ltd",Huawei 2488H V5,Oracle Java SE 8u131,"Java HotSpot(TM) 64-Bit Server VM,version 1.8.0_131",319054,203519
+"Huawei Technologies Co., Ltd",Huawei 8100 V5,Oracle Java SE 8u131,"Java HotSpot(TM) 64-Bit Server VM,version 1.8.0_131",565438,348700
+"Huawei Technologies Co., Ltd",Huawei 8100 V5,Oracle Java SE 8u131,"Java HotSpot(TM) 64-Bit Server VM,version 1.8.0_131",639219,171911
+"Huawei Technologies Co., Ltd",Huawei 2488H V5,Oracle Java SE 8u131,"Java HotSpot(TM) 64-Bit Server VM,version 1.8.0_131",339338,113332
+"Huawei Technologies Co., Ltd",Huawei 2488H V5,Oracle Java SE 8u131,"Java HotSpot(TM) 64-Bit Server VM,version 1.8.0_131",343284,100127
+"Huawei Technologies Co., Ltd",FusionServer 8100 V5,Oracle Java SE 8u131,"Java HotSpot(TM) 64-Bit Server VM,version 1.8.0_131",678677,211867
+"Huawei Technologies Co., Ltd",FusionServer 2488H V5,Oracle Java SE 8u131,"Java HotSpot(TM) 64-Bit Server VM,version 1.8.0_131",351175,108391
+"Huawei Technologies Co., Ltd",FusionServer 8100 V5,Oracle Java SE 8u151,"Java HotSpot(TM) 64-Bit Server VM,version 1.8.0_151",686568,190111
+"Huawei Technologies Co., Ltd",FusionServer 1288H V5,Oracle Java SE 8u191,"Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)",175588,50293
+"Huawei Technologies Co., Ltd",FusionServer 2288H V5,Oracle Java SE 11.0.2,"Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.2+9-LTS, mixed mode)",69079,26336
+"Huawei Technologies Co., Ltd",FusionServer 2288H V5,Oracle Java SE 11.0.2,"Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.2+9-LTS, mixed mode)",135601,38191
+"Huawei Technologies Co., Ltd",FusionServer 2288H V5,Oracle Java SE 11.0.2,"Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.2+9-LTS, mixed mode)",90753,32407
+"Huawei Technologies Co., Ltd",FusionServer 2288H V5,Oracle Java SE 11.0.2,"Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.2+9-LTS, mixed mode)",176711,103193
+"Huawei Technologies Co., Ltd",FusionServer 2288H V5,Oracle Java SE 11.0.2,"Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.2+9-LTS, mixed mode)",188450,63797
+"Huawei Technologies Co., Ltd",Kunlun 9008 V5,Oracle Java SE 11.0.2,"Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.2+9-LTS, mixed mode)",670785,220422
+"Huawei Technologies Co., Ltd",Huawei 2488H V5,Oracle Java SE 11.0.2,"Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.2+9-LTS, mixed mode)",355121,112974
+"Huawei Technologies Co., Ltd",Kunlun 9008 V5,Oracle Java SE 11.0.2,"Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.2+9-LTS, mixed mode)",509007,180109
+IBM Corporation,IBM Power S812LC,IBM J9 VM,IBM J9 VM 8.0 SR2 (build pxl6480sr2fp10-20150820_01(SR2 FP10)),44883,13032
+IBM Corporation,IBM Power S924,IBM J9 VM,8.0.5.17 (IBM JDK8 SR5 FP17),165581,56942
+IBM Corporation,IBM Cloud AMD EPYC 7F72 Bare Metal Server,Oracle Java SE 13.0.2,"Java HotSpot 64-bit Server VM, version 13.0.2",185083,72471
+IBM Corporation,IBM Cloud AMD EPYC 7F72 Bare Metal Server,Oracle Java SE 13.0.2,"Java HotSpot 64-bit Server VM, version 13.0.2",165668,109720
+IBM Corporation,IBM Cloud AMD EPYC 7642 Bare Metal Server,Oracle Java SE 13.0.2,"Java HotSpot 64-bit Server VM, version 13.0.2",229976,151131
+IBM Corporation,"IBM,9043-MRX",IBM J9 VM,8.0.7.10 (IBM JDK8 SR7 FP10),753796,368507
+Inspur Corporation,Inspur NF5280M4,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",92616,27134
+Inspur Corporation,Inspur NF5280M4,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",98333,29009
+Inspur Corporation,Inspur NF5180M4,Oracle Java SE 8u74,"Java HotSpot 64-bit Server VM, version 1.8.0_74",98145,28591
+Inspur Corporation,Inspur NF5270M4,Oracle Java SE 8u74,"Java HotSpot 64-bit Server VM, version 1.8.0_74",97551,28206
+Inspur Corporation,Inspur NF5170M4,Oracle Java SE 8u74,"Java HotSpot 64-bit Server VM, version 1.8.0_74",97543,28535
+Inspur Corporation,Inspur TS860G3,Oracle Java SE 8u91,"Java HotSpot 64-bit Server VM, version 1.8.0_91",397601,124466
+Inspur Corporation,Inspur NF8480M4,Oracle Java SE 8u102,"Java HotSpot 64-bit Server VM, version 1.8.0_102",216077,57541
+Inspur Corporation,Inspur NF5280M4,Oracle Java SE 8u112,"Java HotSpot 64-bit Server VM, version 1.8.0_112",119521,34317
+Inspur Corporation,Inspur NF8480M4,Oracle Java SE 8u121,"Java HotSpot 64-bit Server VM, version 1.8.0_121",219406,37547
+Inspur Corporation,Inspur TS860G3,Oracle Java SE 8u121,"Java HotSpot 64-bit Server VM, version 1.8.0_121",411801,105081
+Inspur Corporation,Inspur NF5280M4,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",122829,39635
+Inspur Corporation,Inspur NF5280M5,Oracle Java SE 9.0.4,"Java HotSpot 64-bit Server VM, version 9.0.4",179534,61518
+Inspur Corporation,Inspur NF8260M5,Oracle Java SE 10.0.1,"Java HotSpot 64-bit Server VM, version 10.0.1",177561,59992
+Inspur Corporation,Inspur NF5280M5,Oracle Java SE 10.0.1,"Java HotSpot 64-bit Server VM, version 10.0.1",181507,43196
+Inspur Corporation,Inspur NF8480M5,Oracle Java SE 10.0.2,"Java HotSpot 64-bit Server VM, version 10.0.2",351175,100015
+Inspur Corporation,Inspur NF8480M5,Oracle Java SE 11.0.2,"Java HotSpot 64-bit Server VM, version 11.0.2",355121,101329
+Inspur Corporation,Inspur NF5280M5,Oracle Java SE 11.0.4,"Java HotSpot 64-bit Server VM, version 11.0.4",194068,61978
+Inspur Corporation,Inspur NF8480M5,Oracle Java SE 13.0.1,"Java HotSpot 64-bit Server VM, version 13.0.1",378668,157484
+Inspur Corporation,Inspur NF8260M5,Oracle Java SE 11.0.5,"Java HotSpot 64-bit Server VM, version 11.0.5",369201,97805
+Inspur Corporation,Inspur NF5180M5,Oracle Java SE 13.0.1,"Java HotSpot 64-bit Server VM, version 13.0.1",188450,53051
+Inspur Corporation,Inspur NF5280M5,Oracle Java SE 14.0.1,"Java HotSpot 64-bit Server VM, version 14.0.1",201168,93722
+Inspur Corporation,Inspur NF5180M5,Oracle Java SE 14.0.1,"Java HotSpot 64-bit Server VM, version 14.0.1",198801,88773
+Inspur Corporation,Inspur NF8260M6,Oracle Java SE 15.0.1,"Java HotSpot 64-bit Server VM, version 15.0.1",397601,191601
+Inspur Corporation,Inspur NF5288M5,Oracle Java SE 15.0.1,"Java HotSpot 64-bit Server VM, version 15.0.1",94495,33264
+Inspur Corporation,Inspur NE5260M5,Oracle Java SE 15.0.1,"Java HotSpot 64-bit Server VM, version 15.0.1",108270,47991
+Inspur Corporation,Inspur NF8480M6,Oracle Java SE 15.0.2,"Java HotSpot 64-bit Server VM, version 15.0.2",421268,208197
+Inspur Corporation,Inspur NF5468A5,Oracle Java SE 15.0.2,"Java HotSpot 64-bit Server VM, version 15.0.2",319609,133173
+Inspur Corporation,Inspur NF5280M6,Oracle Java SE 16.0.1,"Java HotSpot 64-bit Server VM, version 16.0.1",286125,143969
+Inspur Corporation,Inspur NF5484M6,Oracle Java SE 16.0.1,"Java HotSpot 64-bit Server VM, version 16.0.1",171642,87175
+Inspur Corporation,Inspur NF5466M6,Oracle Java SE 16.0.1,"Java HotSpot 64-bit Server VM, version 16.0.1",272500,120090
+Inspur Corporation,Inspur NF5266M6,Oracle Java SE 16.0.1,"Java HotSpot 64-bit Server VM, version 16.0.1",215368,105162
+Inspur Corporation,NF3180A6,Oracle Java SE 16.0.2,"Java HotSpot 64-bit Server VM, version 16.0.2",185453,76686
+Inspur Corporation,Inspur NF5180M6,Oracle Java SE 16.0.2,"Java HotSpot 64-bit Server VM, version 16.0.2",279312,143416
+Inspur Corporation,NF5468A5,Oracle Java SE 17.0.1,"Java HotSpot 64-bit Server VM, version 17.0.1",335392,136412
+Inspur Corporation,NF5468A5,Oracle Java SE 17.0.1,"Java HotSpot 64-bit Server VM, version 17.0.1",205814,89316
+Inspur Corporation,Inspur NF5280M6,Oracle Java SE 17.0.1,"Java HotSpot 64-bit Server VM, version 17.0.1",210635,111971
+Inspur Corporation,Inspur NF5280M6,Oracle Java SE 17.0.1,"Java HotSpot 64-bit Server VM, version 17.0.1",186423,82625
+Inspur Corporation,Inspur NF5280M6,Oracle Java SE 17.0.1,"Java HotSpot 64-bit Server VM, version 17.0.1",117931,56272
+Inspur Corporation,NS3160A6,Oracle Java SE 17.0.1,"Java HotSpot 64-bit Server VM, version 17.0.1",186423,76858
+Inspur Corporation,NS3160A6,Oracle Java SE 17.0.1,"Java HotSpot 64-bit Server VM, version 17.0.1",175588,74662
+Inspur Corporation,Inspur NF5180M6,Oracle Java SE 18.0.1.1,"Java HotSpot 64-bit Server VM, version 18.0.1.1",203534,91560
+Inspur Corporation,Inspur NF5180M6,Oracle Java SE 18,"Java HotSpot 64-bit Server VM, version 18",181507,83372
+Inspur Corporation,Inspur NF5180M6,Oracle Java SE 18,"Java HotSpot 64-bit Server VM, version 18",116560,55712
+Inspur Corporation,NF3180A6,Oracle Java SE 18.0.2,"Java HotSpot 64-bit Server VM, version 18.0.2",108873,52199
+Inspur Corporation,NF5280A6,Oracle Java SE 17.0.4.1,"Java HotSpot 64-bit Server VM, version 17.0.4.1",241347,117081
+Inspur PowerSystem Corporation,FP5280G2,IBM J9 VM,IBM J9 VM(build 8.0.5.27 - pxl6480sr5fp27-20190104_01(SR5 FP27)),113934,48817
+Inspur PowerSystem Corporation,FP5290G2,IBM J9 VM,IBM J9 VM(build 8.0.5.27 - pxl6480sr5fp27-20190104_01(SR5 FP27)),134143,52151
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 8u131,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",157338,114309
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 8u131,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",314676,219702
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 8u131,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",347230,109181
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 8u131,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",599501,424151
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 8u131,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",655002,224649
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 8u131,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",177561,54418
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 8u131,"Java HotSpot 64-Bit Server VM, version 1.8.0_131",83909,26145
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 8u144,"Java HotSpot 64-Bit Server VM, version 1.8.0_144",179534,54287
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 8u144,"Java HotSpot 64-Bit Server VM, version 1.8.0_144",89767,30179
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 8u144,"Java HotSpot 64-Bit Server VM, version 1.8.0_144",76640,64196
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 8u144,"Java HotSpot 64-Bit Server VM, version 1.8.0_144",355121,109123
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 8u144,"Java HotSpot 64-Bit Server VM, version 1.8.0_144",309969,233071
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 8u144,"Java HotSpot 64-Bit Server VM, version 1.8.0_144",572251,443798
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 8u144,"Java HotSpot 64-Bit Server VM, version 1.8.0_144",686568,218763
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 9.0.1,"Java HotSpot 64-Bit Server VM, version 9.0.1",159381,123325
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 9.0.1,"Java HotSpot 64-Bit Server VM, version 9.0.1",181507,63392
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 10.0.2,"Java HotSpot 64-Bit Server VM, version 10.0.2",509007,177396
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 10.0.2,"Java HotSpot 64-Bit Server VM, version 10.0.2",260423,95246
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 10.0.2,"Java HotSpot 64-Bit Server VM, version 10.0.2",232477,176225
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 10.0.2,"Java HotSpot 64-Bit Server VM, version 10.0.2",408750,333084
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 10.0.2,"Java HotSpot 64-Bit Server VM, version 10.0.2",275906,233400
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",157338,122909
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",413860,236525
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",531376,234173
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",318763,269614
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",418969,353043
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",545001,471998
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",92433,36179
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",192502,67545
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",284001,96303
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",378668,143309
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",726026,252935
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",521055,199604
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",89908,75549
+Lenovo Global Technology,ThinkSystem SR650,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",169598,138942
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",251332,200372
+Lenovo Global Technology,ThinkSystem SR950,Oracle Java SE 11.0.2,"Java HotSpot 64-Bit Server VM, version 11.0.2",545001,233461
+Lenovo Global Technology,ThinkSystem SR655,Oracle Java SE 12.0.2,"Java HotSpot 64-Bit Server VM, version 12.0.2",151317,53431
+Lenovo Global Technology,ThinkSystem SR655,Oracle Java SE 12.0.1,"Java HotSpot 64-Bit Server VM, version 12.0.1",134547,85171
+Lenovo Global Technology,ThinkSystem SR655,Oracle Java SE 12.0.1,"Java HotSpot 64-Bit Server VM, version 12.0.1",148237,120320
+Lenovo Global Technology,ThinkSystem SR655,Oracle Java SE 13.0.2,"Java HotSpot 64-Bit Server VM, version 13.0.2",157103,58437
+Lenovo Global Technology,ThinkSystem SR655,OpenJDK 13.0.2,"OpenJDK 64-bit Server VM, version 13.0.2",182143,72034
+Lenovo Global Technology,ThinkSystem SR655,OpenJDK 13.0.2,"OpenJDK 64-bit Server VM, version 13.0.2",158826,131730
+Lenovo Global Technology,ThinkSystem SR635,Oracle Java SE 13.0.2,"Java HotSpot 64-Bit Server VM, version 13.0.2",149875,98075
+Lenovo Global Technology,ThinkSystem SR645,Oracle Java SE 13.0.2,"Java HotSpot 64-Bit Server VM, version 13.0.2",307449,190493
+Lenovo Global Technology,ThinkSystem SR665,Oracle Java SE 13.0.2,"Java HotSpot 64-Bit Server VM, version 13.0.2",327501,126167
+Lenovo Global Technology,ThinkSystem SR665,OpenJDK 14.0.1,"OpenJDK 64-bit Server VM, version 14.0.1",361462,130606
+Lenovo Global Technology,ThinkSystem SR665,OpenJDK 14.0.1,"OpenJDK 64-bit Server VM, version 14.0.1",315663,248942
+Lenovo Global Technology,ThinkSystem SR860 V2,Oracle Java SE 15.0.1,"Java HotSpot 64-Bit Server VM, version 15.0.1",318763,245422
+Lenovo Global Technology,ThinkSystem SR860 V2,Oracle Java SE 15.0.1,"Java HotSpot 64-Bit Server VM, version 15.0.1",339338,184937
+Lenovo Global Technology,ThinkSystem SR665,Oracle Java SE 15.0.2,"Java HotSpot 64-Bit Server VM, version 15.0.2",351175,145563
+Lenovo Global Technology,ThinkSystem SR665,Oracle Java SE 15.0.2,"Java HotSpot 64-Bit Server VM, version 15.0.2",318763,249006
+Lenovo Global Technology,ThinkSystem SR655,Oracle Java SE 16.0.1,"Java HotSpot 64-Bit Server VM, version 16.0.1",161425,120047
+Lenovo Global Technology,ThinkSystem SR655,Oracle Java SE 16.0.1,"Java HotSpot 64-Bit Server VM, version 16.0.1",173615,67286
+Lenovo Global Technology,ThinkSystem SR645,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM, version 17.0.2",466239,200438
+Lenovo Global Technology,ThinkSystem SR645,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM, version 17.0.2",350268,319768
+Lenovo Global Technology,ThinkSystem SR645,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM, version 17.0.2",430735,176846
+Lenovo Global Technology,ThinkSystem SR645,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM, version 17.0.2",220101,89431
+Lenovo Global Technology,ThinkSystem SR645,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM, version 17.0.2",241347,100219
+Lenovo Global Technology,ThinkSystem SR645,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM, version 17.0.2",196130,147020
+Lenovo Global Technology,ThinkSystem SR645,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM, version 17.0.2",382453,291266
+Lenovo Global Technology,ThinkSystem SR665 V3,Oracle Java SE 17.0.4.1,"Java HotSpot 64-Bit Server VM, version 17.0.4.1",756952,372032
+Lenovo Global Technology,ThinkSystem SR665 V3,Oracle Java SE 19,"Java HotSpot 64-Bit Server VM, version 19",633563,447004
+Lenovo Global Technology,ThinkSystem SR665 V3,Oracle Java SE 17.0.4.1,"Java HotSpot 64-Bit Server VM, version 17.0.4.1",662046,306957
+Lenovo Global Technology,ThinkSystem SR665 V3,Oracle Java SE 19,"Java HotSpot 64-Bit Server VM, version 19",650738,292038
+Lenovo Group Limited,Lenovo Flex System x240 M5,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",80889,43654
+Lenovo Group Limited,Lenovo System x3550 M5,Oracle Java SE 8u66,"Java HotSpot 64-Bit Server VM, version 1.8.0_66",117489,36997
+Lenovo Group Limited,Lenovo Flex System x240 M5,Oracle Java SE 8u74,"Java HotSpot 64-Bit Server VM, version 1.8.0_74",116978,35258
+Lenovo Group Limited,Lenovo System x3850 X6,Oracle Java SE 8u91,"Java HotSpot 64-Bit Server VM, version 1.8.0_91",214961,64042
+Lenovo Group Limited,Lenovo System x3850 X6,Oracle Java SE 8u91,"Java HotSpot 64-Bit Server VM, version 1.8.0_91",191701,123518
+Nettrix,R620 G40,OpenJDK 16.0.1,"OpenJDK 64-Bit Server VM, version 16.0.1",258368,127374
+Nettrix,R620 G40,Oracle Java SE 16.0.1,"Java HotSpot(TM) 64-Bit Server VM, version 16.0.1",241333,188208
+Nettrix,R620 G40,OpenJDK 16.0.1,"OpenJDK 64-Bit Server VM, version 16.0.1",241333,182159
+Nettrix,R620 G40,Oracle Java SE 16.0.1,"Java HotSpot(TM) 64-Bit Server VM, version 16.0.1",264047,89514
+Nettrix,R620 G40,Oracle Java SE 18.0.1.1,"Java HotSpot 64-bit Server VM, version 18.0.1.1",120674,47953
+Oracle Corporation,Sun Server X4-2,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",52482,19614
+Oracle Corporation,Oracle Server X5-2L,Oracle Java SE 8u60,"Java HotSpot 64-bit Server VM, version 1.8.0_60",76773,26458
+Oracle Corporation,SPARC T5-2,Oracle Java SE 8u66,"Java HotSpot 64-bit Server VM, version 1.8.0_66",80889,37422
+Oracle Corporation,SPARC T7-1,Oracle Java SE 8u66,"Java HotSpot 64-bit Server VM, version 1.8.0_66",120603,60280
+Oracle Corporation,SPARC S7-2,Oracle Java SE 8u92,"Java HotSpot 64-bit Server VM, version 1.8.0_92",65790,35812
+Oracle Corporation,SPARC T8-1,Oracle Java SE 8u144,"Java HotSpot 64-bit Server VM, version 1.8.0_144",153532,89980
+Quanta Computer Inc.,QuantaGrid D51B-2U,Oracle Java SE 8u77,"Java HotSpot 64-bit Server VM, version 1.8.0_77",119302,28674
+Quanta Computer Inc.,QuantaGrid D52B-2U,Oracle Java SE 8u131,"Java HotSpot 64-bit Server VM, version 1.8.0_131",161778,40874
+Quanta Computer Inc.,QuantaGrid D53XQ-2U,Oracle Java SE 16.0.1,"Java HotSpot 64-Bit Server VM,version 16.0.1",255529,203894
+Quanta Computer Inc.,QuantaGrid D53XQ-2U,Oracle Java SE 16.0.1,"Java HotSpot 64-Bit Server VM,version 16.0.1",272500,140362
+Quanta Computer Inc.,QuantaGrid D43K-1U,Oracle Java SE 16.0.1,"Java HotSpot 64-Bit Server VM,version 16.0.1",319609,301364
+Quanta Computer Inc.,QuantaGrid D43K-1U,Oracle Java SE 16.0.1,"Java HotSpot 64-Bit Server VM,version 16.0.1",397906,153139
+Quanta Computer Inc.,QuantaGrid D43K-1U,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM,version 17.0.2",482694,176524
+Quanta Computer Inc.,QuantaGrid D43K-1U,Oracle Java SE 17.0.2,"Java HotSpot 64-Bit Server VM,version 17.0.2",364468,340021
+Sugon,Sugon I840-G25,Oracle Java SE 8u74,"Java HotSpot 64-Bit Server VM,version 1.8.0_74",211379,69227
+Sugon,Sugon I980-G20,Oracle Java SE 8u112,"Java HotSpot 64-bit Server VM, version 1.8.0_112",332913,104105
+Sugon,Sugon TC6600,Oracle Java SE 8u112,"Java HotSpot 64-bit Server VM, version 1.8.0_112",77234,26235
+Sugon,Sugon I980-G20,Oracle Java SE 8u112,"Java HotSpot 64-bit Server VM, version 1.8.0_112",402335,123010
+Sugon,Sugon I980-G20,Oracle Java SE 8u112,"Java HotSpot 64-bit Server VM, version 1.8.0_112",402335,123010
+Sugon,A620-G30,Oracle Java SE 9.0.4,"Java HotSpot(TM) 64-Bit Server VM (build 9.0.4+11, mixed mode)",150654,46165
+Sugon,I980-G30,Oracle Java SE 8u201,"Java HotSpot 64-bit Server VM (build 25.201-b09,mixed mode)",686568,253214
+Sugon,I980-G30,Oracle Java SE 11.02,"Java HotSpot(TM) 64-Bit Server VM (build 11.0.2+9-LTS, mixed mode)",686568,311928
+"Super Micro Computer, Inc",Supermicro A+ AS-1124US-TNRP Server,Oracle Java SE 13.0.2,"Java HotSpot 64-bit Server VM, version 13.0.2",150930,131319
+"Super Micro Computer, Inc",Supermicro A+ AS-1124US-TNRP Server,Oracle Java SE 13.0.2,"Java HotSpot 64-bit Server VM, version 13.0.2",194164,78466
+"Super Micro Computer, Inc",Supermicro A+ 2014TP-HTR Server,Oracle Java SE 13.0.2,"Java HotSpot 64-bit Server VM, version 13.0.2",68976,35815
+"Super Micro Computer, Inc",Supermicro A+ 2014TP-HTR Server,Oracle Java SE 13.0.2,"Java HotSpot 64-bit Server VM, version 13.0.2",67072,46694
+"Super Micro Computer, Inc",Supermicro A+ AS-1114S-WN10RT Server,Oracle Java SE 13.0.2,"Java HotSpot 64-bit Server VM, version 13.0.2",100516,62442
+"Super Micro Computer, Inc",Supermicro A+ AS-1114S-WN10RT Server,Oracle Java SE 13.0.2,"Java HotSpot 64-bit Server VM, version 13.0.2",95613,69983
+"Super Micro Computer, Inc",Supermicro A+ AS-1124US-TNRP Server,Oracle Java SE 15.0.2,"Java HotSpot 64-bit Server VM, version 15.0.2",402479,181620
+"Super Micro Computer, Inc",Supermicro A+ AS-1124US-TNRP Server,Oracle Java SE 15.0.2,"Java HotSpot 64-bit Server VM, version 15.0.2",359067,301297
+"Super Micro Computer, Inc",Supermicro X12DPG-QT6,Oracle Java SE 15.0.2,"Java HotSpot 64-bit Server VM, version 15.0.2",272500,147409
+"Super Micro Computer, Inc",Supermicro X12DPG-QT6,Oracle Java SE 15.0.2,"Java HotSpot 64-bit Server VM, version 15.0.2",258368,201334
+"Super Micro Computer, Inc",Supermicro A+ AS-1124US-TNRP Server,Oracle Java SE 16,"Java HotSpot 64-bit Server VM, version 16",276317,116628
+"Super Micro Computer, Inc",Supermicro A+ AS-1124US-TNRP Server,Oracle Java SE 16,"Java HotSpot 64-bit Server VM, version 16",211179,191813
+"Super Micro Computer, Inc",A+ Server 4124GS-TNR,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",477209,218249
+"Super Micro Computer, Inc",A+ Server 2124US-TNRP,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",488179,174786
+"Super Micro Computer, Inc",A+ Server 2124US-TNRP,Oracle Java SE 17.0.2,"Java HotSpot 64-bit Server VM, version 17.0.2",383401,338946
+"Super Micro Computer, Inc",A+ Server F1114S-FT,Oracle java SE 17.0.2,"JDK HotSpot 64-bit Server VM, version 17.0.2",111448,46694
+"Super Micro Computer, Inc",Supermicro A+ AS-1115CS-TNR,Oracle Java SE 18.0.2.1,"Java HotSpot 64-bit Server VM, version 18.0.2.1",404608,216064
+"Super Micro Computer, Inc",Supermicro A+ AS-2125HS-TNR,Oracle Java SE 18.0.2.1,"Java HotSpot 64-bit Server VM, version 18.0.2.1",811237,353382
+Supermicro,Supermicro X12DPG-QT6,Oracle Java SE 16.0.1,"Java HotSpot 64-bit Server VM, version 16.0.1",255529,198666
+Supermicro,Supermicro X12DPG-QT6,Oracle Java SE 16.0.1,"Java HotSpot 64-bit Server VM, version 16.0.1",271203,138279
+Supermicro,Supermicro SYS-620P-TRT Server,Oracle Java SE 16.0.1,"Java HotSpot 64-bit Server VM, version 16.0.1",266886,145432
+Supermicro,Supermicro SYS-620P-TRT Server,Oracle Java SE 16.0.1,"Java HotSpot 64-bit Server VM, version 16.0.1",252690,198603
+Telecommunications Technology Association,RC124,Oracle Java SE 16.0.1,JDK 16,40444,29644
+Telecommunications Technology Association,RC124,Oracle Java SE 16.0.1,JDK 16,52596,22354
+Telecommunications Technology Association,KR580S2,Oracle Java SE 17,"Java HotSpot 64-bit Server VM, version 17",286125,135879
+Telecommunications Technology Association,LKG-2212-C,Oracle Java SE 18,"Java HotSpot 64-bit Server VM, version 18",116560,56380
+Telecommunications Technology Association,TNS-2100,Oracle Java SE 18.0.1.1,"Java HotSpot 64-bit Server VM, version 18.0.1.1",156006,77341
+Telecommunications Technology Association,TNS-2100,Oracle Java SE 18.0.2,"Java HotSpot 64-bit Server VM, version 18.0.2",157103,75127
+xFusion,xFusion 2288H V6,Oracle Java SE 17.0.3.1,"Java HotSpot(TM) 64-Bit Server VM, version 17.0.3.1",282896,155647
+xFusion,xFusion 1288H V6,Oracle Java SE 17.0.3.1,"Java HotSpot(TM) 64-Bit Server VM, version 17.0.3.1",282896,156446
+xFusion,xFusion 5288 V6,Oracle Java SE 17.0.3.1,"Java HotSpot(TM) 64-Bit Server VM, version 17.0.3.1",282896,149863
+xFusion,xFusion 2488H V6,Oracle Java SE 17.0.3.1,"Java HotSpot(TM) 64-Bit Server VM, version 17.0.3.1",425348,217181
