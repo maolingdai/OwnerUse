@@ -1,3 +1,3 @@
 # OwnerUse
 
-SPEC微数据中台项目
+SPEC数据中台项目
